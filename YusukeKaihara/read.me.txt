@@ -1,0 +1,6 @@
+1 ファミリ作成.py を実行
+2 kodama/codeにある api_count.py　を実行
+3 kodama/codeにある main.py　を実行
+
+4 コマンドプロンプトにて実行
+python main_copy.py 0 && python main_copy.py 2 && python main_copy.py 3 && python main_copy.py 4 -m exist && python main_copy.py 5 --ml svm -v exist
